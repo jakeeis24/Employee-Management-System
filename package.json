@@ -20,6 +20,7 @@
   "homepage": "https://github.com/jakeeis24/Employee-Management-System#readme",
   "dependencies": {
     "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
     "express": "^4.17.3",
     "figlet": "^1.5.2",
     "inquirer": "^8.2.1",
