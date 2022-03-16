@@ -22,11 +22,11 @@ VALUES
 ("Kim", "Eissler", 2, 1),
 ("Evan", "Mares", 3, 1),
 ("Antony", "Smelianski", 4, null),
-("Jake", "Eissler", 5, 2),
-("James", "Notary", 6, 2),
+("Jake", "Eissler", 5, 4),
+("James", "Notary", 6, 4),
 ("Austin", "Meuller", 7, null),
-("Christian", "Wolff", 8, 3),
-("Dana", "Cummings", 9, 3),
+("Christian", "Wolff", 8, 7),
+("Dana", "Cummings", 9, 7),
 ("Matt", "Murdock", 10, null),
-("Foggy", "Nelson", 11, 4),
-("Karen", "Page", 12, 4);
+("Foggy", "Nelson", 11, 10),
+("Karen", "Page", 12, 10);
